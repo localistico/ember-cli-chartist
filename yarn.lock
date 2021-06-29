@@ -2748,9 +2748,9 @@ charm@^1.0.0:
   dependencies:
     inherits "^2.0.1"
 
-"chartist@https://github.com/localistico/chartist-js.git#8123b5db02753b3888508c170844f2244ecf4664":
+"chartist@https://github.com/localistico/chartist-js.git#46d401b38cb23e9c201e619cf2ffc75bcce78cf6":
   version "0.11.4"
-  resolved "https://github.com/localistico/chartist-js.git#8123b5db02753b3888508c170844f2244ecf4664"
+  resolved "https://github.com/localistico/chartist-js.git#46d401b38cb23e9c201e619cf2ffc75bcce78cf6"
 
 "chokidar@>=2.0.0 <4.0.0":
   version "3.2.1"
